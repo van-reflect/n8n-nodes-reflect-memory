@@ -96,4 +96,4 @@ Create a new memory with:
 
 ## License
 
-[MIT](https://github.com/reflectmemory/n8n-nodes-reflect-memory/blob/main/LICENSE)
+[MIT](https://github.com/van-reflect/n8n-nodes-reflect-memory/blob/main/LICENSE)
